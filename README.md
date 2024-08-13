@@ -1,6 +1,6 @@
 # Cognify-PowerBI-Internship
 
-# ✨TASK - 1 : Data Explorization and Summary
+# 💠TASK - 1 : Data Explorization and Summary
 
 # Objective : 
 Understanding and summarizing key statistics in the dataset.
@@ -18,9 +18,11 @@ Understanding and summarizing key statistics in the dataset.
 ➤ By and large, the information highlights a youthful speculator statistic with a center on long-term budgetary security. 
 
 This assignment has been an great learning involvement, upgrading my abilities in information investigation, investigation, and visualization utilizing Control BI. Energized for the following steps in my information experience with Cognifyz! 
+
 ![Task 1](https://github.com/user-attachments/assets/162bd5b0-217a-4233-bd65-6ff4ae0b9925)
 
-# ✨ TASK -2 : Gender-based Analysis
+
+# 💠 TASK -2 : Gender-based Analysis
 
 # Objective :
 Analyze and visualize gender-based differences in investment preferences.
@@ -34,9 +36,11 @@ Analyze and visualize gender-based differences in investment preferences.
 ➣ Gender Differences: Clear differences in investment preferences were identified, providing valuable insights into how investment strategies might be tailored for different genders.
 
 ➣ Balanced Portfolios: Female investors tended to have more balanced portfolios, highlighting potential risk management strategies.
+
 ![Task 2](https://github.com/user-attachments/assets/ed90dd23-d4a8-4821-8152-eb29ee7a13d1)
 
-# ✨ TASK-3 : Objective Analysis
+
+# 💠 TASK-3 : Objective Analysis
 
 # Objective :
 To analyse how different savings objectives correlate with specific investment avenues. Below are the detailed insights:
@@ -50,9 +54,11 @@ There's a adjusted dispersion among values, settled stores, shared stores, and o
 
 ➤ Salary:
 Slant towards secure speculations like open provident stores, whereas still considering values for higher returns. 
+
 ![Task 3](https://github.com/user-attachments/assets/000a4cff-2bd0-4258-8383-de08d7be2053)
 
-# ✨ TASK-4 : Investment Duration & Frequency
+
+# 💠 TASK-4 : Investment Duration & Frequency
 
 # Objective:
 To gain insights into how long investors hold their investments and how frequently they monitor them.
@@ -63,9 +69,11 @@ Financial specialists transcendently incline toward holding their ventures for 3
 
 ➤ Month to month Observing:
 The lion's share of financial specialists incline toward to screen their speculations month to month, which shows up to be a common procedure for overseeing medium-term speculations. 
+
 ![Task 4](https://github.com/user-attachments/assets/74b0e3ef-8786-4907-844c-b090f9129836)
 
-# ✨ TASK 5 : Reasons of Investment
+
+# 💠 TASK 5 : Reasons of Investment
 
 # Objective:
 To analyze and visualize the primary reasons driving investment decisions.
@@ -90,9 +98,11 @@ To analyze and visualize the primary reasons driving investment decisions.
 ➤ Most speculators lean toward to screen their ventures month to month, showing a inclination for customary but not excessively visit oversight.
 
 ➤ Week after week and every day checking are less common, proposing these are either less fundamental or less attainable for most financial specialists. 
+
 ![Task 5](https://github.com/user-attachments/assets/abf0e33e-28b9-4554-80b9-e47a9a750552)
 
-# ✨ TASK 6: - Source of Information
+
+# 💠 TASK 6: - Source of Information
 
 # Objective:
 The objective of this task is to analyze and visualize the different sources from which individuals gather investment information. This involves identifying the most commonly used sources and understanding their relative importance to investors.
@@ -143,6 +153,7 @@ Financial specialists are the foremost trusted source over all speculation roads
 ➤ Conventional Media is Key:
 
 Daily papers and magazines are still exceedingly pertinent, appearing the persevering impact of print media. 
+
 ![Task 6](https://github.com/user-attachments/assets/c5372d95-c053-4b0b-a122-c342c77ab6a7)
 
 
@@ -207,6 +218,7 @@ Shared reserves are the foremost common venture avenue (18), taken after by valu
 
 
 ➤Thanks to Cognifyz for giving me this extraordinary opportunity to work on astounding datasets and construct information visualization reports and KPI visualizations.
+
 ![Final task](https://github.com/user-attachments/assets/181e372a-4916-4aaa-af9a-2672773df86c)
 
 ![Final 2](https://github.com/user-attachments/assets/f69a3677-0aa2-4629-a993-54a4af86d93c)
