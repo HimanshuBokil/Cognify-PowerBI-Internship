@@ -157,7 +157,7 @@ Daily papers and magazines are still exceedingly pertinent, appearing the persev
 ![Task 6](https://github.com/user-attachments/assets/c5372d95-c053-4b0b-a122-c342c77ab6a7)
 
 
-✨𝐓𝐚𝐬𝐤 𝟕: Combine Insights into a Dashboard
+# 💠 TASK 7: - Combine Insights into a Dashboard
 
 # Objective :
 Create a comprehensive dashboard incorporating all insights.
@@ -217,7 +217,7 @@ Most financial specialists screen their ventures month to month (29).
 Shared reserves are the foremost common venture avenue (18), taken after by value (10) and settled stores (9). 
 
 
-➤Thanks to Cognifyz for giving me this extraordinary opportunity to work on astounding datasets and construct information visualization reports and KPI visualizations.
+Thanks to Cognifyz for giving me this extraordinary opportunity to work on astounding datasets and construct information visualization reports and KPI visualizations.
 
 ![Final task](https://github.com/user-attachments/assets/181e372a-4916-4aaa-af9a-2672773df86c)
 
