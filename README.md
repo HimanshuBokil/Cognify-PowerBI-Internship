@@ -72,18 +72,23 @@ To analyze and visualize the primary reasons driving investment decisions.
 
 # Insights : 
 ➤ Way better Returns is the overwhelming reason for speculation, demonstrating that speculators are basically propelled by tall potential picks up.
+
 ➤ Finance Expansion is additionally a critical reason, suggesting that financial specialists are inquisitive about spreading their dangers over different resources.
+
 ➤ Tax Benefits is the slightest common reason, implying it isn't a essential help for most financial specialists within the dataset.
 
 💠Investment Length:
 
 ➤ The lion's share of ventures, notwithstanding of reason, are held for 3-5 a long time.
+
 ➤ A noteworthy parcel too lean towards a 1-3 year term
+
 ➤ Exceptionally few speculators hold speculations for less than 1 year or more than 5 a long time.
 
 💠Monitoring Recurrence:
 
 ➤ Most speculators lean toward to screen their ventures month to month, showing a inclination for customary but not excessively visit oversight.
+
 ➤ Week after week and every day checking are less common, proposing these are either less fundamental or less attainable for most financial specialists. 
 ![Task 5](https://github.com/user-attachments/assets/abf0e33e-28b9-4554-80b9-e47a9a750552)
 
@@ -201,9 +206,7 @@ Most financial specialists screen their ventures month to month (29).
 Shared reserves are the foremost common venture avenue (18), taken after by value (10) and settled stores (9). 
 
 
-# Situated for victory with viable aptitudes pertinent over businesses.
-
-➤Thanks to Cognifyz for giving me this extraordinary opportunity to work on astounding datasets and construct information visualization reports and KPI visualizations.✨ 
+➤Thanks to Cognifyz for giving me this extraordinary opportunity to work on astounding datasets and construct information visualization reports and KPI visualizations.
 ![Final task](https://github.com/user-attachments/assets/181e372a-4916-4aaa-af9a-2672773df86c)
 
 ![Final 2](https://github.com/user-attachments/assets/f69a3677-0aa2-4629-a993-54a4af86d93c)
