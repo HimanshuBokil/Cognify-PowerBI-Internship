@@ -5,7 +5,8 @@
 # Objective : 
 Understanding and summarizing key statistics in the dataset.
 
-# Insights :
+# Insights :   
+
 ➤ The normal age of people within the dataset is around 28 a long time, with a lion's share being male speculators (62.5%).
 ➤ Gold and Debentures are the foremost well known speculation choices, taken after closely by Government Bonds.
 ➤ Retirement arranging is the essential reserve funds objective for most people, taken after by wellbeing care and instruction.
