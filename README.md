@@ -12,7 +12,7 @@ Understanding and summarizing key statistics in the dataset.
 ➤ The speculation dispersion appears that over 20% of people incline toward Gold and Debentures, showing a inclination for moderately more secure venture choices. 
 ➤ By and large, the information highlights a youthful speculator statistic with a center on long-term budgetary security. 
 
-# This assignment has been an great learning involvement, upgrading my abilities in information investigation, investigation, and visualization utilizing Control BI. Energized for the following steps in my information experience with Cognifyz! 
+This assignment has been an great learning involvement, upgrading my abilities in information investigation, investigation, and visualization utilizing Control BI. Energized for the following steps in my information experience with Cognifyz! 
 ![Task 1](https://github.com/user-attachments/assets/162bd5b0-217a-4233-bd65-6ff4ae0b9925)
 
 # ✨ TASK -2 : Gender-based Analysis
