@@ -7,10 +7,14 @@ Understanding and summarizing key statistics in the dataset.
 
 # Insights :   
 
-➤ The normal age of people within the dataset is around 28 a long time, with a lion's share being male speculators (62.5%).
+➤ The normal age of people within the dataset is around 28 a long time, with a lion's share being male speculators (62.5%). 
+
 ➤ Gold and Debentures are the foremost well known speculation choices, taken after closely by Government Bonds.
+
 ➤ Retirement arranging is the essential reserve funds objective for most people, taken after by wellbeing care and instruction.
+
 ➤ The speculation dispersion appears that over 20% of people incline toward Gold and Debentures, showing a inclination for moderately more secure venture choices. 
+
 ➤ By and large, the information highlights a youthful speculator statistic with a center on long-term budgetary security. 
 
 This assignment has been an great learning involvement, upgrading my abilities in information investigation, investigation, and visualization utilizing Control BI. Energized for the following steps in my information experience with Cognifyz! 
